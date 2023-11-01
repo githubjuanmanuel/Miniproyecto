@@ -5,5 +5,9 @@ NOTA: !Se debe instalar con anticipación node js en el equipo al igual que post
 3) Buscar el archivo .env y cambiar el contenido de la variable "MONGO_URI" por la que se le da en su propia base de datos;
 4) Volviendo a la terminal debe introducir el comando npm run backend para iniciar la conexión con la base de datos y arracar el servidor;
 
+*URL Crear objeto : http://localhost:5000/api/tasks
+*URL Mostrar objetos : http://localhost:5000/api/tasks
+*URL Mostrar un solo objeto : http://localhost:5000/api/tasks/
+
 
 
